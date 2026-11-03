@@ -1,4 +1,4 @@
-# Hi, I'm Bader (Blue) 👋
+# Hi, I'm Bader  👋
 
 I'm an MSc Data Science & Marketing Analytics student at Erasmus School of Economics.
 
